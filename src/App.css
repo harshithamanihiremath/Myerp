@@ -1,0 +1,16 @@
+
+body{
+  display: flex;
+  justify-content: center;
+  background-color: #FFE4C4;
+}
+ul{
+  display: flex;
+  list-style: none;
+}
+li{
+  padding: 50px;
+}
+
+  
+  

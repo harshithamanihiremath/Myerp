@@ -1,0 +1,15 @@
+.nav{
+    color: blue;
+    text-decoration:none;
+    max-width: 1200px;
+   align-content: flex-end;
+    border-radius: 0px;
+  
+  }
+  
+  .nav:hover {
+    
+    color: white;
+   
+  }
+  
